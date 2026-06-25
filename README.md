@@ -1,1 +1,1 @@
-# Dactyl-Cygnus-VIAL-QML
+# Dactyl-Cygnus-vial-qmk
